@@ -8,7 +8,7 @@ This repository reproduces the experiments from the paper **"Quantum Machine Lea
 ### **1. Hybrid Quantum-Classical Model**
 - **Description:** A hybrid neural network combining quantum layers with classical convolutional layers for image classification.
 - **Architecture Diagram:**  
-  ![Architecture Design 1](image1.png)
+  ![Architecture Design 1](images/qml Design 1.png)
 - **Code:** [`hybrid_quantum_classical_models_for_image_classification.ipynb`](hybrid_quantum_classical_models_for_image_classification.ipynb)
 
 ---
@@ -16,7 +16,7 @@ This repository reproduces the experiments from the paper **"Quantum Machine Lea
 ### **2. Quanvolutional Neural Network (QuanvNN)**
 - **Description:** A variation of the CNN where a *quanvolution* layer replaces some classical convolutional operations, introducing quantum feature maps.
 - **Architecture Diagram:**  
-  ![Architecture Design 2](image2.png)
+  ![Architecture Design 2](images/qml Design 2.png)
 - **Code:** [`hybrid_quantum_classical_models_for_image_classification_Quanvolution.ipynb`](hybrid_quantum_classical_models_for_image_classification_Quanvolution.ipynb)
 
 ---
